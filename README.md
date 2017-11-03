@@ -1,5 +1,5 @@
 # crosstest
-I like banned API methods like strcpy()
+I like banned API methods like strncpy()
 
 Not to mention deprecated crypto algorithms like MD5
 
